@@ -6,8 +6,6 @@ use Bosnadev\Repositories\Contracts\RepositoryInterface;
 use Bosnadev\Repositories\Exceptions\RepositoryException;
 
 use Jenssegers\Mongodb\Eloquent\Model;
-
-//use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
 use Illuminate\Container\Container as App;
 
